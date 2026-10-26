@@ -19,29 +19,30 @@
 | 📦 产品 / 应用 | 桌面 / 移动应用、自托管工具、效率产品、开源替代品 |
 
 <!-- WEEKLY:START -->
-## 📅 最新一期：2026-W43
+## 📅 最新一期：2026-W44
 
-> 生成于 2026-10-23 · 数据源 GitHub Trending (weekly) · 候选 138 个，相关 120 个，过滤 18 个 · 过滤方式：关键词规则
+> 生成于 2026-10-26 · 数据源 GitHub Trending (weekly) · 候选 139 个，相关 119 个，过滤 20 个 · 过滤方式：关键词规则
 
 ### 🔥 本周 Top 10
 
 | # | 项目 | 简介 | 本周 ⭐ | 总 ⭐ |
 |---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | +106.3k | 367.1k |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | +13.6k | 81.9k |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | +9.4k | 102.9k |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | +9.3k | 39.8k |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | +9.2k | 173.7k |
-| 6 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | Tool for automatic PS5 executables porting to Linux and Windows | +8.7k | 46.9k |
-| 7 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. | +8.1k | 13.2k |
-| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | +6.8k | 220.3k |
-| 9 | [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | +6.7k | 35.7k |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | +5.7k | 70.1k |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | +15.1k | 47.3k |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | +11.8k | 87.3k |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | +9.6k | 106.1k |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | +9.5k | 176.3k |
+| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora. | +7.6k | 15.6k |
+| 6 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. | +6.9k | 135.5k |
+| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | +5.9k | 221.6k |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | +5.6k | 72.4k |
+| 9 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | +4.8k | 143.0k |
+| 10 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | +4.7k | 88.0k |
 
-👉 [查看 2026-W43 完整周报（全部分类 + 已过滤项目）](reports/2026/2026-W43.md)
+👉 [查看 2026-W44 完整周报（全部分类 + 已过滤项目）](reports/2026/2026-W44.md)
 
 ## 🗂️ 历史周报
 
+- [2026-W44](reports/2026/2026-W44.md)
 - [2026-W43](reports/2026/2026-W43.md)
 <!-- WEEKLY:END -->
 
